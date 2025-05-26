@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Be Vietnam";
+  font-display: swap;
+  src: url("../fonts/BeVietnamPro-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Be Vietnam";
+  font-display: swap;
+  src: url("../fonts/BeVietnamPro-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Be Vietnam";
+  font-display: swap;
+  src: url("../fonts/BeVietnamPro-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@import "./reset";
+@import "./utils";
+@import "./typography";
+@import "./blocks";
